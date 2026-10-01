@@ -1,0 +1,11 @@
+numpy
+pandas
+requests
+Pillow
+imagehash
+pdf2image
+google-cloud-documentai
+google-auth
+nltk
+rapidfuzz
+pyspellchecker
